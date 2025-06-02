@@ -49,3 +49,10 @@ The solution also features:
 - A `stack` of maximum size `n²` is used for storing path coordinates
 
 ---
+
+## Sample Input & Output
+![image](https://github.com/user-attachments/assets/524f1f0d-c498-46a0-b178-05c5ff01de39)
+
+![image](https://github.com/user-attachments/assets/fe90ccad-c0d3-4fa8-b03a-38daf0266621)
+![image](https://github.com/user-attachments/assets/ee716325-8b78-4519-87ad-2d9ab7b79ad0)
+
